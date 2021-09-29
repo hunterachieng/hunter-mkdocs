@@ -1,0 +1,8 @@
+site_name: Hunter
+theme:
+  name: material
+nav:
+    - Documentation Tools: index.md
+    - Themes: themes.md
+    - Syntax: syntax.md
+    
